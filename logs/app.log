@@ -1,0 +1,73 @@
+2024-10-29 13:18:52,930 - root - INFO - Logging configured.
+2024-10-29 13:18:52,930 - root - INFO - Environment variables loaded.
+2024-10-29 13:18:52,937 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-29 13:18:52,938 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 13:22:15,741 - root - INFO - Application exit.
+2024-10-29 13:22:15,741 - root - INFO - Application shutdown.
+2024-10-29 13:22:17,997 - root - INFO - Logging configured.
+2024-10-29 13:22:17,998 - root - INFO - Environment variables loaded.
+2024-10-29 13:22:18,005 - root - INFO - Command 'GreetCommand' from plugin 'greet' registered.
+2024-10-29 13:22:18,005 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 13:29:03,875 - root - INFO - Exiting application.
+2024-10-29 13:29:03,876 - root - INFO - Application shutdown.
+2024-10-29 13:30:37,472 - root - INFO - Logging configured.
+2024-10-29 13:30:37,473 - root - INFO - Environment variables loaded.
+2024-10-29 13:30:37,481 - root - INFO - Registered command: add
+2024-10-29 13:30:37,481 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 13:30:37,481 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 13:31:17,146 - root - ERROR - Unknown command: subtract 10 2
+2024-10-29 13:31:31,648 - root - INFO - Application interrupted and exiting gracefully.
+2024-10-29 13:31:31,648 - root - INFO - Application shutdown.
+2024-10-29 13:31:54,451 - root - INFO - Logging configured.
+2024-10-29 13:31:54,453 - root - INFO - Environment variables loaded.
+2024-10-29 13:31:54,460 - root - INFO - Registered command: add
+2024-10-29 13:31:54,460 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 13:31:54,460 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 13:36:30,525 - root - INFO - Application exit.
+2024-10-29 13:36:30,526 - root - INFO - Application shutdown.
+2024-10-29 13:36:34,327 - root - INFO - Logging configured.
+2024-10-29 13:36:34,329 - root - INFO - Environment variables loaded.
+2024-10-29 13:36:34,336 - root - INFO - Registered command: add
+2024-10-29 13:36:34,337 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-29 13:36:34,338 - root - INFO - Registered command: divide
+2024-10-29 13:36:34,338 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-29 13:36:34,338 - root - INFO - Registered command: add
+2024-10-29 13:36:34,339 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 13:36:34,340 - root - INFO - Registered command: multiply
+2024-10-29 13:36:34,340 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-29 13:36:34,341 - root - INFO - Registered command: subtract
+2024-10-29 13:36:34,341 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-29 13:36:34,341 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 13:42:13,331 - root - INFO - Application exit.
+2024-10-29 13:42:13,331 - root - INFO - Application shutdown.
+2024-10-29 13:47:31,646 - root - INFO - Logging configured.
+2024-10-29 13:47:31,647 - root - INFO - Environment variables loaded.
+2024-10-29 13:52:36,082 - root - INFO - Logging configured.
+2024-10-29 13:52:36,083 - root - INFO - Environment variables loaded.
+2024-10-29 13:52:36,091 - root - INFO - Registered command: add
+2024-10-29 13:52:36,092 - root - INFO - Registered command: divide
+2024-10-29 13:52:36,092 - root - INFO - Registered command: add
+2024-10-29 13:52:36,093 - root - INFO - Registered command: greet
+2024-10-29 13:52:36,093 - root - INFO - Registered command: multiply
+2024-10-29 13:52:36,093 - root - INFO - Registered command: subtract
+2024-10-29 13:52:36,094 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 13:57:40,212 - root - INFO - Application exit.
+2024-10-29 13:57:40,213 - root - INFO - Application shutdown.
+2024-10-29 14:10:37,619 - root - INFO - Logging configured.
+2024-10-29 14:10:37,620 - root - INFO - Environment variables loaded.
+2024-10-29 14:12:22,601 - root - INFO - Logging configured.
+2024-10-29 14:12:22,602 - root - INFO - Environment variables loaded.
+2024-10-29 14:14:41,467 - root - INFO - Logging configured.
+2024-10-29 14:14:41,468 - root - INFO - Environment variables loaded.
+2024-10-29 14:14:41,473 - root - INFO - Registered command: greet
+2024-10-29 14:14:41,473 - root - INFO - Command 'GreetCommand' from plugin 'greet' registered.
+2024-10-29 14:14:41,473 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 14:14:45,605 - root - ERROR - Unknown command: 'add 5 3'
+2024-10-29 14:18:06,461 - root - INFO - Exiting application.
+2024-10-29 14:18:06,461 - root - INFO - Application shutdown.
+2024-10-29 14:18:09,437 - root - INFO - Logging configured.
+2024-10-29 14:18:09,438 - root - INFO - Environment variables loaded.
+2024-10-29 14:18:09,447 - root - INFO - Registered command: add
+2024-10-29 14:18:09,447 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 14:18:09,448 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 14:18:15,381 - root - INFO - Application shutdown.

@@ -1,6 +1,11 @@
-class ExamplePlugin:
-    def square(self, x):
-        return x * x
+from app.commands import Command
 
-    def cube(self, x):
-        return x ** 3
+class AddCommand(Command):
+    def execute(self, *args):
+        # Convert arguments to floats and perform addition
+        try:
+            numbers = [float(arg) for arg in args]
+            result = sum(numbers)
+            print(f"Result: {result}")
+        except ValueError:
+            print("Error: All arguments must be numbers.")
