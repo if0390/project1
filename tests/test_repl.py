@@ -1,5 +1,5 @@
 import pytest
-from app.repl import REPL
+from app.repl import REPL  
 from unittest.mock import patch
 
 def test_repl_quit():

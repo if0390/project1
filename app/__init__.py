@@ -37,12 +37,10 @@ class App:
         plugins_package = 'app.plugins'
         plugins_path = plugins_package.replace('.', '/')
         
-        # Confirm if plugins path exists
         if not os.path.exists(plugins_path):
             logging.warning(f"Plugins directory '{plugins_path}' not found.")
             return
         
-        # Iterate through the plugins directory to find modules
         for _, plugin_name, is_pkg in pkgutil.iter_modules([plugins_path]):
             if not is_pkg:
                 try:
