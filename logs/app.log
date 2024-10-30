@@ -79,3 +79,58 @@
 2024-10-29 21:00:33,190 - root - ERROR - Unknown command: subtract 10 3
 2024-10-29 21:00:37,109 - root - INFO - Application exit.
 2024-10-29 21:00:37,110 - root - INFO - Application shutdown.
+2024-10-29 21:17:03,415 - root - INFO - Logging configured.
+2024-10-29 21:17:03,416 - root - INFO - Environment variables loaded.
+2024-10-29 21:17:03,421 - root - INFO - Registered command: add
+2024-10-29 21:17:03,421 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 21:17:03,421 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 21:17:18,719 - root - ERROR - Unknown command: subtract 10 2
+2024-10-29 21:17:30,426 - root - INFO - Application exit.
+2024-10-29 21:17:30,426 - root - INFO - Application shutdown.
+2024-10-29 21:23:13,214 - root - INFO - Logging configured.
+2024-10-29 21:23:13,214 - root - INFO - Environment variables loaded.
+2024-10-29 21:23:13,218 - root - INFO - Registered command: add
+2024-10-29 21:23:13,218 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 21:23:13,218 - root - INFO - Registered command: divide
+2024-10-29 21:23:13,219 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-29 21:23:13,219 - root - INFO - Registered command: multiply
+2024-10-29 21:23:13,219 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-29 21:23:13,219 - root - INFO - Registered command: subtract
+2024-10-29 21:23:13,220 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-29 21:23:13,220 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 21:25:38,834 - root - ERROR - Unknown command: multiplyy 6 7
+2024-10-29 21:26:47,993 - root - ERROR - Unknown command: history
+2024-10-29 21:28:31,340 - root - ERROR - Unknown command: exi
+2024-10-29 21:28:33,462 - root - INFO - Application exit.
+2024-10-29 21:28:33,462 - root - INFO - Application shutdown.
+2024-10-29 21:28:36,804 - root - INFO - Logging configured.
+2024-10-29 21:28:36,804 - root - INFO - Environment variables loaded.
+2024-10-29 21:28:36,808 - root - INFO - Registered command: add
+2024-10-29 21:28:36,808 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 21:28:36,808 - root - INFO - Registered command: divide
+2024-10-29 21:28:36,808 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-29 21:28:36,808 - root - INFO - Registered command: multiply
+2024-10-29 21:28:36,808 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-29 21:28:36,808 - root - INFO - Registered command: subtract
+2024-10-29 21:28:36,808 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-29 21:28:36,808 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 21:29:03,367 - root - ERROR - Unknown command: history
+2024-10-29 21:29:12,877 - root - ERROR - Unknown command: history
+2024-10-29 21:31:19,106 - root - INFO - Application exit.
+2024-10-29 21:31:19,106 - root - INFO - Application shutdown.
+2024-10-29 21:31:31,585 - root - INFO - Logging configured.
+2024-10-29 21:31:31,586 - root - INFO - Environment variables loaded.
+2024-10-29 21:31:31,590 - root - INFO - Registered command: add
+2024-10-29 21:31:31,590 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 21:31:31,590 - root - INFO - Registered command: divide
+2024-10-29 21:31:31,591 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-29 21:31:31,591 - root - INFO - Registered command: multiply
+2024-10-29 21:31:31,591 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-29 21:31:31,591 - root - INFO - Registered command: subtract
+2024-10-29 21:31:31,592 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-29 21:31:31,592 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 21:31:54,289 - root - ERROR - Unknown command: history
+2024-10-29 21:33:49,411 - root - ERROR - Unknown command: save_history
+2024-10-29 21:33:59,019 - root - ERROR - Unknown command: menu
+2024-10-29 21:35:24,852 - root - INFO - Application exit.
+2024-10-29 21:35:24,852 - root - INFO - Application shutdown.
