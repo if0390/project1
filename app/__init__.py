@@ -36,6 +36,8 @@ class App:
         """Dynamically loads plugins from the plugins directory."""
         plugins_package = 'app.plugins'
         plugins_path = plugins_package.replace('.', '/')
+        
+        # Confirm if plugins path exists
         if not os.path.exists(plugins_path):
             logging.warning(f"Plugins directory '{plugins_path}' not found.")
             return

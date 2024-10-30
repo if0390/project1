@@ -71,3 +71,11 @@
 2024-10-29 14:18:09,447 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
 2024-10-29 14:18:09,448 - root - INFO - Application started. Type 'exit' to exit.
 2024-10-29 14:18:15,381 - root - INFO - Application shutdown.
+2024-10-29 21:00:09,080 - root - INFO - Logging configured.
+2024-10-29 21:00:09,081 - root - INFO - Environment variables loaded.
+2024-10-29 21:00:09,085 - root - INFO - Registered command: add
+2024-10-29 21:00:09,085 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-29 21:00:09,085 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-29 21:00:33,190 - root - ERROR - Unknown command: subtract 10 3
+2024-10-29 21:00:37,109 - root - INFO - Application exit.
+2024-10-29 21:00:37,110 - root - INFO - Application shutdown.
