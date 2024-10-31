@@ -1,29 +1,29 @@
-from decimal import Decimal
-from typing import Callable, List
-
-from calculator.calculation import Calculation
+import pandas as pd
 
 class Calculations:
-    history: List[Calculation] = []
+    history = pd.DataFrame(columns=["operation", "operand1", "operand2", "result"])
 
-    @classmethod
-    def add_calculation(cls, calculation: Calculation):
-        cls.history.append(calculation)
+    @staticmethod
+    def add_calculation(calculation):
+        operation = calculation.operation.__name__
+        operand1 = calculation.a
+        operand2 = calculation.b
+        result = calculation.perform()
+        
+        new_entry = pd.DataFrame({
+            "operation": [operation],
+            "operand1": [operand1],
+            "operand2": [operand2],
+            "result": [result]
+        })
 
-    @classmethod
-    def get_history(cls) -> List[Calculation]:
-        return cls.history
+        Calculations.history = pd.concat([Calculations.history, new_entry], ignore_index=True)
+        print("Added calculation to history:", operation, operand1, operand2, result)  # Debugging print
 
-    @classmethod
-    def clear_history(cls):
-        cls.history.clear()
+    @staticmethod
+    def get_history():
+        return Calculations.history
 
-    @classmethod
-    def get_latest(cls) -> Calculation:
-        if cls.history:
-            return cls.history[-1]
-        return None
-
-    @classmethod
-    def find_by_operation(cls, operation_name: str) -> List[Calculation]:
-        return [calc for calc in cls.history if calc.operation.__name__ == operation_name]
+    @staticmethod
+    def clear_history():
+        Calculations.history = Calculations.history.iloc[0:0]  # Clears DataFrame

@@ -6,6 +6,8 @@ import logging
 import logging.config
 from dotenv import load_dotenv
 from app.commands import CommandHandler, Command
+from app.commands.history_command import HistoryCommand 
+from app.core import Calculator  
 
 class App:
     def __init__(self):
@@ -15,6 +17,10 @@ class App:
         self.settings = self.load_environment_variables()
         self.settings.setdefault('ENVIRONMENT', 'PRODUCTION')
         self.command_handler = CommandHandler()
+        self.calculator = Calculator() 
+
+        self.command_handler.register_command("history", HistoryCommand(self.calculator))
+        self.load_plugins()
 
     def configure_logging(self):
         logging_conf_path = 'logging.conf'
@@ -60,7 +66,6 @@ class App:
                 logging.info(f"Command '{command_name}' from plugin '{plugin_name}' registered.")
 
     def start(self):
-        self.load_plugins()
         logging.info("Application started. Type 'exit' to exit.")
         try:
             while True:

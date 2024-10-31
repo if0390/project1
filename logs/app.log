@@ -134,3 +134,333 @@
 2024-10-29 21:33:59,019 - root - ERROR - Unknown command: menu
 2024-10-29 21:35:24,852 - root - INFO - Application exit.
 2024-10-29 21:35:24,852 - root - INFO - Application shutdown.
+2024-10-30 11:41:55,041 - root - INFO - Logging configured.
+2024-10-30 11:41:55,043 - root - INFO - Environment variables loaded.
+2024-10-30 11:41:55,049 - root - INFO - Registered command: add
+2024-10-30 11:41:55,049 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 11:41:55,049 - root - INFO - Registered command: divide
+2024-10-30 11:41:55,050 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 11:41:55,051 - root - INFO - Registered command: multiply
+2024-10-30 11:41:55,051 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 11:41:55,051 - root - INFO - Registered command: subtract
+2024-10-30 11:41:55,051 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 11:41:55,052 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 11:42:15,700 - root - ERROR - Unknown command: history
+2024-10-30 11:42:17,811 - root - INFO - Application exit.
+2024-10-30 11:42:17,812 - root - INFO - Application shutdown.
+2024-10-30 11:54:38,543 - root - INFO - Logging configured.
+2024-10-30 11:54:38,545 - root - INFO - Environment variables loaded.
+2024-10-30 11:54:38,545 - root - INFO - Registered command: history
+2024-10-30 11:54:38,553 - root - INFO - Registered command: add
+2024-10-30 11:54:38,554 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 11:54:38,554 - root - INFO - Registered command: divide
+2024-10-30 11:54:38,554 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 11:54:38,554 - root - INFO - Registered command: multiply
+2024-10-30 11:54:38,554 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 11:54:38,554 - root - INFO - Registered command: subtract
+2024-10-30 11:54:38,554 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 11:54:38,554 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 11:58:22,145 - root - INFO - Application exit.
+2024-10-30 11:58:22,146 - root - INFO - Application shutdown.
+2024-10-30 11:58:25,670 - root - INFO - Logging configured.
+2024-10-30 11:58:25,672 - root - INFO - Environment variables loaded.
+2024-10-30 11:58:25,672 - root - INFO - Registered command: history
+2024-10-30 11:58:25,679 - root - INFO - Registered command: add
+2024-10-30 11:58:25,679 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 11:58:25,680 - root - INFO - Registered command: divide
+2024-10-30 11:58:25,680 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 11:58:25,681 - root - INFO - Registered command: multiply
+2024-10-30 11:58:25,681 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 11:58:25,681 - root - INFO - Registered command: subtract
+2024-10-30 11:58:25,682 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 11:58:25,682 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 12:02:50,948 - root - INFO - Application exit.
+2024-10-30 12:02:50,948 - root - INFO - Application shutdown.
+2024-10-30 12:02:53,207 - root - INFO - Logging configured.
+2024-10-30 12:02:53,208 - root - INFO - Environment variables loaded.
+2024-10-30 12:02:53,208 - root - INFO - Registered command: history
+2024-10-30 12:02:53,216 - root - INFO - Registered command: add
+2024-10-30 12:02:53,216 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 12:02:53,217 - root - INFO - Registered command: divide
+2024-10-30 12:02:53,218 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 12:02:53,218 - root - INFO - Registered command: multiply
+2024-10-30 12:02:53,218 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 12:02:53,218 - root - INFO - Registered command: subtract
+2024-10-30 12:02:53,218 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 12:02:53,219 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 12:03:07,109 - root - INFO - Application exit.
+2024-10-30 12:03:07,110 - root - INFO - Application shutdown.
+2024-10-30 12:05:39,689 - root - INFO - Logging configured.
+2024-10-30 12:05:39,690 - root - INFO - Environment variables loaded.
+2024-10-30 12:05:39,692 - root - INFO - Registered command: history
+2024-10-30 12:05:39,698 - root - INFO - Registered command: add
+2024-10-30 12:05:39,698 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 12:05:39,699 - root - INFO - Registered command: divide
+2024-10-30 12:05:39,699 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 12:05:39,699 - root - INFO - Registered command: multiply
+2024-10-30 12:05:39,700 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 12:05:39,700 - root - INFO - Registered command: subtract
+2024-10-30 12:05:39,701 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 12:05:39,701 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 12:05:57,071 - root - ERROR - Unknown command: save_history
+2024-10-30 12:06:01,837 - root - INFO - Application exit.
+2024-10-30 12:06:01,837 - root - INFO - Application shutdown.
+2024-10-30 12:15:00,488 - root - INFO - Logging configured.
+2024-10-30 12:15:00,489 - root - INFO - Environment variables loaded.
+2024-10-30 12:15:00,489 - root - INFO - Registered command: history
+2024-10-30 12:15:00,496 - root - INFO - Registered command: add
+2024-10-30 12:15:00,497 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 12:15:00,497 - root - INFO - Registered command: divide
+2024-10-30 12:15:00,497 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 12:15:00,497 - root - INFO - Registered command: multiply
+2024-10-30 12:15:00,497 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 12:15:00,498 - root - INFO - Registered command: subtract
+2024-10-30 12:15:00,498 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 12:15:00,498 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 12:16:05,088 - root - INFO - Application shutdown.
+2024-10-30 12:18:33,691 - root - INFO - Logging configured.
+2024-10-30 12:18:33,693 - root - INFO - Environment variables loaded.
+2024-10-30 12:18:33,693 - root - INFO - Registered command: history
+2024-10-30 12:18:33,699 - root - INFO - Registered command: add
+2024-10-30 12:18:33,700 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 12:18:33,700 - root - INFO - Registered command: divide
+2024-10-30 12:18:33,700 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 12:18:33,700 - root - INFO - Registered command: multiply
+2024-10-30 12:18:33,700 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 12:18:33,700 - root - INFO - Registered command: subtract
+2024-10-30 12:18:33,700 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 12:18:33,701 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 12:22:12,776 - root - INFO - Application exit.
+2024-10-30 12:22:12,777 - root - INFO - Application shutdown.
+2024-10-30 12:22:14,895 - root - INFO - Logging configured.
+2024-10-30 12:22:14,897 - root - INFO - Environment variables loaded.
+2024-10-30 12:22:14,897 - root - INFO - Registered command: history
+2024-10-30 12:22:14,906 - root - INFO - Registered command: add
+2024-10-30 12:22:14,907 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 12:22:14,907 - root - INFO - Registered command: divide
+2024-10-30 12:22:14,907 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 12:22:14,907 - root - INFO - Registered command: multiply
+2024-10-30 12:22:14,907 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 12:22:14,907 - root - INFO - Registered command: subtract
+2024-10-30 12:22:14,908 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 12:22:14,908 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 12:25:44,692 - root - INFO - Application exit.
+2024-10-30 12:25:44,693 - root - INFO - Application shutdown.
+2024-10-30 20:08:46,507 - root - INFO - Logging configured.
+2024-10-30 20:08:46,509 - root - INFO - Environment variables loaded.
+2024-10-30 20:08:46,509 - root - INFO - Registered command: history
+2024-10-30 20:08:46,512 - root - INFO - Registered command: add
+2024-10-30 20:08:46,512 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 20:08:46,512 - root - INFO - Registered command: divide
+2024-10-30 20:08:46,513 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 20:08:46,513 - root - INFO - Registered command: multiply
+2024-10-30 20:08:46,513 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 20:08:46,513 - root - INFO - Registered command: subtract
+2024-10-30 20:08:46,513 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 20:08:46,513 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 20:11:14,867 - root - INFO - Application exit.
+2024-10-30 20:11:14,867 - root - INFO - Application shutdown.
+2024-10-30 20:14:06,904 - root - INFO - Logging configured.
+2024-10-30 20:14:06,905 - root - INFO - Environment variables loaded.
+2024-10-30 20:14:06,905 - root - INFO - Registered command: history
+2024-10-30 20:14:06,908 - root - INFO - Registered command: add
+2024-10-30 20:14:06,909 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 20:14:06,909 - root - INFO - Registered command: divide
+2024-10-30 20:14:06,909 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 20:14:06,909 - root - INFO - Registered command: multiply
+2024-10-30 20:14:06,909 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 20:14:06,909 - root - INFO - Registered command: subtract
+2024-10-30 20:14:06,909 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 20:14:06,910 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 20:14:29,425 - root - INFO - Application exit.
+2024-10-30 20:14:29,425 - root - INFO - Application shutdown.
+2024-10-30 20:15:16,598 - root - INFO - Logging configured.
+2024-10-30 20:15:16,599 - root - INFO - Environment variables loaded.
+2024-10-30 20:15:16,599 - root - INFO - Registered command: history
+2024-10-30 20:15:16,603 - root - INFO - Registered command: add
+2024-10-30 20:15:16,603 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 20:15:16,603 - root - INFO - Registered command: divide
+2024-10-30 20:15:16,603 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 20:15:16,603 - root - INFO - Registered command: multiply
+2024-10-30 20:15:16,603 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 20:15:16,604 - root - INFO - Registered command: subtract
+2024-10-30 20:15:16,604 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 20:15:16,604 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 20:17:02,916 - root - INFO - Application exit.
+2024-10-30 20:17:02,916 - root - INFO - Application shutdown.
+2024-10-30 20:30:43,584 - root - INFO - Logging configured.
+2024-10-30 20:30:43,584 - root - INFO - Environment variables loaded.
+2024-10-30 20:30:43,585 - root - INFO - Registered command: history
+2024-10-30 20:30:43,588 - root - INFO - Registered command: add
+2024-10-30 20:30:43,588 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 20:30:43,588 - root - INFO - Registered command: divide
+2024-10-30 20:30:43,588 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 20:30:43,589 - root - INFO - Registered command: multiply
+2024-10-30 20:30:43,589 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 20:30:43,589 - root - INFO - Registered command: subtract
+2024-10-30 20:30:43,589 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 20:30:43,589 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 20:31:54,038 - root - ERROR - Unknown command: Enter command (add, subtract, multiply, divide, history, quit): history
+2024-10-30 21:59:27,510 - root - INFO - Application exit.
+2024-10-30 21:59:27,524 - root - INFO - Application shutdown.
+2024-10-30 21:59:34,196 - root - INFO - Logging configured.
+2024-10-30 21:59:34,198 - root - INFO - Environment variables loaded.
+2024-10-30 21:59:34,198 - root - INFO - Registered command: history
+2024-10-30 21:59:34,203 - root - INFO - Registered command: add
+2024-10-30 21:59:34,204 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 21:59:34,204 - root - INFO - Registered command: divide
+2024-10-30 21:59:34,204 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 21:59:34,204 - root - INFO - Registered command: multiply
+2024-10-30 21:59:34,204 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 21:59:34,204 - root - INFO - Registered command: subtract
+2024-10-30 21:59:34,204 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 21:59:34,204 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:03:58,052 - root - INFO - Application exit.
+2024-10-30 22:03:58,052 - root - INFO - Application shutdown.
+2024-10-30 22:06:32,677 - root - INFO - Logging configured.
+2024-10-30 22:06:32,677 - root - INFO - Environment variables loaded.
+2024-10-30 22:06:32,678 - root - INFO - Registered command: history
+2024-10-30 22:06:32,678 - root - INFO - Registered command: add
+2024-10-30 22:06:32,678 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:06:32,678 - root - INFO - Registered command: divide
+2024-10-30 22:06:32,678 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:06:32,679 - root - INFO - Registered command: multiply
+2024-10-30 22:06:32,679 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:06:32,679 - root - INFO - Registered command: subtract
+2024-10-30 22:06:32,679 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:06:32,679 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:06:48,060 - root - INFO - Application exit.
+2024-10-30 22:06:48,060 - root - INFO - Application shutdown.
+2024-10-30 22:07:53,422 - root - INFO - Logging configured.
+2024-10-30 22:07:53,423 - root - INFO - Environment variables loaded.
+2024-10-30 22:07:53,423 - root - INFO - Registered command: history
+2024-10-30 22:07:53,424 - root - INFO - Registered command: add
+2024-10-30 22:07:53,424 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:07:53,424 - root - INFO - Registered command: divide
+2024-10-30 22:07:53,424 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:07:53,424 - root - INFO - Registered command: multiply
+2024-10-30 22:07:53,424 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:07:53,424 - root - INFO - Registered command: subtract
+2024-10-30 22:07:53,425 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:07:53,425 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:11:01,647 - root - INFO - Application exit.
+2024-10-30 22:11:01,648 - root - INFO - Application shutdown.
+2024-10-30 22:11:04,514 - root - INFO - Logging configured.
+2024-10-30 22:11:04,515 - root - INFO - Environment variables loaded.
+2024-10-30 22:11:04,515 - root - INFO - Registered command: history
+2024-10-30 22:11:04,515 - root - INFO - Registered command: add
+2024-10-30 22:11:04,515 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:11:04,516 - root - INFO - Registered command: divide
+2024-10-30 22:11:04,516 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:11:04,516 - root - INFO - Registered command: multiply
+2024-10-30 22:11:04,516 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:11:04,516 - root - INFO - Registered command: subtract
+2024-10-30 22:11:04,516 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:11:04,516 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:11:30,624 - root - INFO - Application exit.
+2024-10-30 22:11:30,624 - root - INFO - Application shutdown.
+2024-10-30 22:19:04,796 - root - INFO - Logging configured.
+2024-10-30 22:19:04,797 - root - INFO - Environment variables loaded.
+2024-10-30 22:19:04,797 - root - INFO - Registered command: history
+2024-10-30 22:19:04,798 - root - INFO - Registered command: add
+2024-10-30 22:19:04,798 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:19:04,798 - root - INFO - Registered command: divide
+2024-10-30 22:19:04,799 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:19:04,799 - root - INFO - Registered command: multiply
+2024-10-30 22:19:04,799 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:19:04,799 - root - INFO - Registered command: subtract
+2024-10-30 22:19:04,799 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:19:04,800 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:19:09,344 - root - ERROR - Unknown command: menu
+2024-10-30 22:19:33,099 - root - INFO - Application exit.
+2024-10-30 22:19:33,099 - root - INFO - Application shutdown.
+2024-10-30 22:21:05,722 - root - INFO - Logging configured.
+2024-10-30 22:21:05,723 - root - INFO - Environment variables loaded.
+2024-10-30 22:21:05,723 - root - INFO - Registered command: history
+2024-10-30 22:21:05,724 - root - INFO - Registered command: add
+2024-10-30 22:21:05,724 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:21:05,724 - root - INFO - Registered command: divide
+2024-10-30 22:21:05,724 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:21:05,724 - root - INFO - Registered command: multiply
+2024-10-30 22:21:05,724 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:21:05,725 - root - INFO - Registered command: subtract
+2024-10-30 22:21:05,725 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:21:05,725 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:21:13,883 - root - ERROR - Unknown command: menu
+2024-10-30 22:21:54,213 - root - INFO - Application exit.
+2024-10-30 22:21:54,214 - root - INFO - Application shutdown.
+2024-10-30 22:22:34,006 - root - INFO - Logging configured.
+2024-10-30 22:22:34,007 - root - INFO - Environment variables loaded.
+2024-10-30 22:22:34,007 - root - INFO - Registered command: history
+2024-10-30 22:22:34,008 - root - INFO - Registered command: add
+2024-10-30 22:22:34,009 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:22:34,009 - root - INFO - Registered command: divide
+2024-10-30 22:22:34,009 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:22:34,009 - root - INFO - Registered command: multiply
+2024-10-30 22:22:34,009 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:22:34,010 - root - INFO - Registered command: subtract
+2024-10-30 22:22:34,010 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:22:34,010 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:22:36,800 - root - ERROR - Unknown command: hello
+2024-10-30 22:22:40,494 - root - INFO - Application exit.
+2024-10-30 22:22:40,494 - root - INFO - Application shutdown.
+2024-10-30 22:24:57,589 - root - INFO - Logging configured.
+2024-10-30 22:24:57,590 - root - INFO - Environment variables loaded.
+2024-10-30 22:24:57,590 - root - INFO - Registered command: history
+2024-10-30 22:24:57,591 - root - INFO - Registered command: add
+2024-10-30 22:24:57,591 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:24:57,591 - root - INFO - Registered command: divide
+2024-10-30 22:24:57,591 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:24:57,591 - root - INFO - Registered command: multiply
+2024-10-30 22:24:57,591 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:24:57,591 - root - INFO - Registered command: subtract
+2024-10-30 22:24:57,592 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:24:57,592 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:24:59,029 - root - ERROR - Unknown command: menu
+2024-10-30 22:25:07,520 - root - INFO - Application exit.
+2024-10-30 22:25:07,520 - root - INFO - Application shutdown.
+2024-10-30 22:28:11,490 - root - INFO - Logging configured.
+2024-10-30 22:28:11,491 - root - INFO - Environment variables loaded.
+2024-10-30 22:28:11,491 - root - INFO - Registered command: history
+2024-10-30 22:28:11,491 - root - INFO - Registered command: add
+2024-10-30 22:28:11,491 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,491 - root - INFO - Registered command: divide
+2024-10-30 22:28:11,491 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,491 - root - INFO - Registered command: multiply
+2024-10-30 22:28:11,491 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,491 - root - INFO - Registered command: subtract
+2024-10-30 22:28:11,491 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,491 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:28:11,492 - root - ERROR - Unknown command: greet
+2024-10-30 22:28:11,492 - root - INFO - Application exit.
+2024-10-30 22:28:11,492 - root - INFO - Application shutdown.
+2024-10-30 22:28:11,529 - root - INFO - Logging configured.
+2024-10-30 22:28:11,530 - root - INFO - Environment variables loaded.
+2024-10-30 22:28:11,530 - root - INFO - Registered command: history
+2024-10-30 22:28:11,530 - root - INFO - Registered command: add
+2024-10-30 22:28:11,530 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,530 - root - INFO - Registered command: divide
+2024-10-30 22:28:11,530 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,530 - root - INFO - Registered command: multiply
+2024-10-30 22:28:11,531 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,531 - root - INFO - Registered command: subtract
+2024-10-30 22:28:11,531 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-30 22:28:11,531 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-30 22:28:11,531 - root - ERROR - Unknown command: menu
+2024-10-30 22:28:11,531 - root - INFO - Application exit.
+2024-10-30 22:28:11,531 - root - INFO - Application shutdown.
+2024-10-30 22:28:11,542 - root - ERROR - Attempted to divide by zero
+2024-10-31 17:15:49,741 - root - INFO - Logging configured.
+2024-10-31 17:15:49,742 - root - INFO - Environment variables loaded.
+2024-10-31 17:15:49,742 - root - INFO - Registered command: history
+2024-10-31 17:15:49,743 - root - INFO - Registered command: add
+2024-10-31 17:15:49,743 - root - INFO - Command 'add' from plugin 'example_plugin' registered.
+2024-10-31 17:15:49,744 - root - INFO - Registered command: divide
+2024-10-31 17:15:49,744 - root - INFO - Command 'divide' from plugin 'example_plugin' registered.
+2024-10-31 17:15:49,744 - root - INFO - Registered command: multiply
+2024-10-31 17:15:49,744 - root - INFO - Command 'multiply' from plugin 'example_plugin' registered.
+2024-10-31 17:15:49,744 - root - INFO - Registered command: subtract
+2024-10-31 17:15:49,744 - root - INFO - Command 'subtract' from plugin 'example_plugin' registered.
+2024-10-31 17:15:49,745 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-31 17:18:09,664 - root - INFO - Application exit.
+2024-10-31 17:18:09,664 - root - INFO - Application shutdown.

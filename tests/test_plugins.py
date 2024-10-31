@@ -1,9 +1,10 @@
+import pytest
 from app.plugins.example_plugin import ExamplePlugin
 
-def test_square():
+def test_greet():
     plugin = ExamplePlugin()
-    assert plugin.square(3) == 9
+    assert plugin.execute("greet", "Alice") == "Hello, Alice!"
 
-def test_cube():
+def test_menu():
     plugin = ExamplePlugin()
-    assert plugin.cube(2) == 8
+    assert plugin.execute("menu") == "Available commands: greet, menu"

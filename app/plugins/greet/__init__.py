@@ -1,14 +1,8 @@
-import logging
-from app.commands import Command
+from app.plugins.plugin import Plugin
 
+class GreetPlugin(Plugin):
+    def get_command_name(self):
+        return "greet"
 
-class GreetCommand(Command):
-    def execute(self):
-        logging.info("Hello, World!")
-
-        mylist_tuple = (1,2,3,4)
-        mylist = [1,2,3,4]
-
-        
-
-        print("Hello, World!")
+    def execute(self, name):
+        return f"Hello, {name}!"

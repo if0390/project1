@@ -7,13 +7,16 @@ class Calculation:
         self.a = a
         self.b = b
         self.operation = operation
-    
+        self.result = None
+
     @staticmethod    
     def create(a: Decimal, b: Decimal, operation: Callable[[Decimal, Decimal], Decimal]):
         return Calculation(a, b, operation)
 
     def perform(self) -> Decimal:
-        return self.operation(self.a, self.b)
+        if self.result is None: 
+            self.result = self.operation(self.a, self.b)
+        return self.result
 
     def __repr__(self):
-        return f"Calculation({self.a}, {self.b}, {self.operation.__name__})"
+        return f"Calculation({self.a}, {self.b}, {self.operation.__name__}, Result: {self.result})"
