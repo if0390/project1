@@ -27,15 +27,14 @@ class Calculator:
         return result
 
     def divide(self, x, y):
-        try:
-            calculation = Calculation.create(Decimal(x), Decimal(y), divide)
-            result = calculation.perform()
-            Calculations.add_calculation(calculation)
-            logging.debug(f"Division result: {result} added to history")
-            return result
-        except ValueError:
+        if y == 0:
             logging.error("Attempted to divide by zero")
-            return "Error: Division by zero"
+            return "Division by zero!" 
+        calculation = Calculation.create(Decimal(x), Decimal(y), divide)
+        result = calculation.perform()
+        Calculations.add_calculation(calculation)
+        logging.debug(f"Division result: {result} added to history")
+        return result
 
     @property
     def history(self):

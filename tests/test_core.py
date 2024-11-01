@@ -1,4 +1,5 @@
 import pytest
+import logging
 from app.core import Calculator
 
 @pytest.fixture
@@ -17,5 +18,7 @@ def test_multiply(calculator):
 def test_divide(calculator):
     assert calculator.divide(6, 3) == 2
 
-def test_divide_by_zero(calculator):
-    assert calculator.divide(5, 0) == "Error: Division by zero"
+def test_divide_by_zero(calculator, caplog):
+    with caplog.at_level(logging.ERROR):
+        result = calculator.divide(5, 0)
+        assert result == "Division by zero!" 
