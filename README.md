@@ -29,7 +29,7 @@ The project captures great detail when it comes to logging the operations of the
 To set up and run the application, follow these steps:
 1. **Clone the Repository:** 
     ```bash
-    git clone <repository-link>
+    git clone git@github.com:if0390/project1.git
     ```
 2. **Install Dependencies:** Ensure you have Python installed and then run:
     ```bash
@@ -51,4 +51,4 @@ To set up and run the application, follow these steps:
 
 
 ## Demonstration Video
-A [3-5 minute video demonstration](video-link) of the calculator’s key functionalities is provided to guide users through its usage.
+A [3-5 minute video demonstration](https://drive.google.com/file/d/1n4IJi9JYTemU_H33DP_iZC_xHdedbOOX/view?usp=sharing) of the calculator’s key functionalities is provided to guide users through its usage.
