@@ -42,28 +42,31 @@ class Calculator:
     def save_history(self):
         try:
             self.history.to_csv(self.history_file, index=False)
+            print("History saved successfully.")
         except Exception as e:
             print(f"Error saving history: {e}")
 
     def load_history(self):
+        """Load history from the file and update in-memory history."""
         if os.path.exists(self.history_file):
             try:
-                history_data = pd.read_csv(self.history_file)
+                self.history = pd.read_csv(self.history_file)  
                 print("History loaded successfully.")  
-                return history_data
             except Exception as e:
                 print(f"Error loading history: {e}")
-                return pd.DataFrame(columns=['Expression', 'Result'])
+                self.history = pd.DataFrame(columns=['Expression', 'Result']) 
         else:
             print("No saved history found. Starting with an empty history.")
-            return pd.DataFrame(columns=['Expression', 'Result'])
+            self.history = pd.DataFrame(columns=['Expression', 'Result'])  
+        return self.history
 
     def clear_history(self):
+        """Clear in-memory history without saving the empty history to the file."""
         self.history = pd.DataFrame(columns=['Expression', 'Result'])
-        self.save_history() 
         print("History cleared.")
 
     def delete_history_file(self):
+        """Delete the history file if it exists."""
         if os.path.exists(self.history_file):
             try:
                 os.remove(self.history_file)
@@ -72,4 +75,3 @@ class Calculator:
                 print(f"Error deleting history file: {e}")
         else:
             print("No history file to delete.")
-

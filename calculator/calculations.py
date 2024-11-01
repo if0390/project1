@@ -18,7 +18,7 @@ class Calculations:
         })
 
         Calculations.history = pd.concat([Calculations.history, new_entry], ignore_index=True)
-        print("Added calculation to history:", operation, operand1, operand2, result)  # Debugging print
+        print("Added calculation to history:", operation, operand1, operand2, result)
 
     @staticmethod
     def get_history():
@@ -26,4 +26,4 @@ class Calculations:
 
     @staticmethod
     def clear_history():
-        Calculations.history = Calculations.history.iloc[0:0]  # Clears DataFrame
+        Calculations.history = Calculations.history.iloc[0:0] 
