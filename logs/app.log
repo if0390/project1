@@ -483,3 +483,87 @@
 2024-11-01 17:54:47,736 - root - INFO - Performed addition: 9.0 + 1.0 = 10.0
 2024-11-01 17:54:57,067 - root - ERROR - Attempted to divide by zero.
 2024-11-01 17:55:26,081 - root - INFO - Application exited.
+2024-11-01 18:35:38,534 - root - INFO - Application started.
+2024-11-01 18:35:38,767 - root - INFO - History loaded successfully.
+2024-11-01 18:35:38,768 - root - INFO - Calculator initialized.
+2024-11-01 18:35:44,110 - root - INFO - History saved successfully.
+2024-11-01 18:35:44,110 - root - INFO - Performed addition: 9.0 + 1.0 = 10.0
+2024-11-01 18:37:33,221 - root - INFO - Application exited.
+2024-11-01 18:37:48,246 - root - INFO - Application started.
+2024-11-01 18:37:48,468 - root - INFO - History loaded successfully.
+2024-11-01 18:37:48,469 - root - INFO - Calculator initialized.
+2024-11-01 18:38:00,464 - root - INFO - Application exited.
+2024-11-01 18:41:56,458 - root - INFO - Application started.
+2024-11-01 18:41:56,691 - root - INFO - History loaded successfully.
+2024-11-01 18:41:56,691 - root - INFO - Calculator initialized.
+2024-11-01 18:42:02,400 - root - INFO - History saved successfully.
+2024-11-01 18:42:02,400 - root - INFO - Performed addition: 3.0 + 9.0 = 12.0
+2024-11-01 18:42:09,352 - root - INFO - Displaying calculation history.
+2024-11-01 18:42:14,121 - root - INFO - History loaded successfully.
+2024-11-01 18:42:17,337 - root - INFO - Displaying calculation history.
+2024-11-01 18:42:20,018 - root - ERROR - An error occurred: 'Calculator' object has no attribute 'save_current_history'
+2024-11-01 18:42:20,018 - root - INFO - Application exited.
+2024-11-01 18:42:36,526 - root - INFO - Application started.
+2024-11-01 18:42:36,743 - root - INFO - History loaded successfully.
+2024-11-01 18:42:36,743 - root - INFO - Calculator initialized.
+2024-11-01 18:42:41,397 - root - INFO - Displaying calculation history.
+2024-11-01 18:42:50,182 - root - ERROR - An error occurred: 'Calculator' object has no attribute 'save_current_history'
+2024-11-01 18:42:50,182 - root - INFO - Application exited.
+2024-11-01 18:43:21,795 - root - INFO - Application started.
+2024-11-01 18:43:22,008 - root - INFO - History loaded successfully.
+2024-11-01 18:43:22,008 - root - INFO - Calculator initialized.
+2024-11-01 18:43:29,268 - root - INFO - Displaying calculation history.
+2024-11-01 18:43:35,571 - root - INFO - History cleared.
+2024-11-01 18:43:38,548 - root - INFO - History loaded successfully.
+2024-11-01 18:43:40,502 - root - INFO - Displaying calculation history.
+2024-11-01 18:44:23,058 - root - INFO - Application exited.
+2024-11-01 18:44:30,412 - root - INFO - Application started.
+2024-11-01 18:44:30,640 - root - INFO - History loaded successfully.
+2024-11-01 18:44:30,641 - root - INFO - Calculator initialized.
+2024-11-01 18:44:38,040 - root - INFO - History saved successfully.
+2024-11-01 18:44:38,040 - root - INFO - Performed addition: 9.0 + 1.0 = 10.0
+2024-11-01 18:44:44,515 - root - INFO - Displaying calculation history.
+2024-11-01 18:44:48,824 - root - INFO - Application exited.
+2024-11-01 18:51:33,057 - root - INFO - Application started.
+2024-11-01 18:51:33,357 - root - INFO - History loaded successfully.
+2024-11-01 18:51:33,357 - root - INFO - Calculator initialized.
+2024-11-01 18:51:53,100 - root - INFO - History saved successfully.
+2024-11-01 18:51:53,100 - root - INFO - Performed addition: 20.0 + 4.0 = 24.0
+2024-11-01 18:52:08,549 - root - INFO - History saved successfully.
+2024-11-01 18:52:08,549 - root - INFO - Performed subtraction: 31.0 - 24.0 = 7.0
+2024-11-01 18:52:29,367 - root - INFO - History saved successfully.
+2024-11-01 18:52:29,367 - root - INFO - Performed multiplication: 11.0 * 7.0 = 77.0
+2024-11-01 18:52:43,128 - root - INFO - History saved successfully.
+2024-11-01 18:52:43,129 - root - INFO - Performed division: 20.0 / 4.0 = 5.0
+2024-11-01 18:52:49,525 - root - ERROR - Attempted to divide by zero.
+2024-11-01 18:56:39,305 - root - INFO - Application exited.
+2024-11-01 18:56:58,508 - root - INFO - Application started.
+2024-11-01 18:56:58,748 - root - INFO - History loaded successfully.
+2024-11-01 18:56:58,748 - root - INFO - Calculator initialized.
+2024-11-01 18:57:06,107 - root - INFO - Application exited.
+2024-11-01 18:59:32,918 - root - INFO - Application started.
+2024-11-01 18:59:33,181 - root - INFO - History loaded successfully.
+2024-11-01 18:59:33,181 - root - INFO - Calculator initialized.
+2024-11-01 18:59:43,596 - root - INFO - History saved successfully.
+2024-11-01 18:59:43,596 - root - INFO - Performed addition: 8.0 + 1.0 = 9.0
+2024-11-01 18:59:50,441 - root - INFO - History saved successfully.
+2024-11-01 18:59:50,441 - root - INFO - Performed subtraction: 10.0 - 4.0 = 6.0
+2024-11-01 19:00:15,116 - root - INFO - History saved successfully.
+2024-11-01 19:00:15,116 - root - INFO - Performed multiplication: 9.0 * 5.0 = 45.0
+2024-11-01 19:00:24,331 - root - INFO - History saved successfully.
+2024-11-01 19:00:24,332 - root - INFO - Performed division: 10.0 / 5.0 = 2.0
+2024-11-01 19:00:28,635 - root - ERROR - Attempted to divide by zero.
+2024-11-01 19:00:59,378 - root - INFO - History saved successfully.
+2024-11-01 19:00:59,378 - root - INFO - Performed addition: 7.0 + 9.0 = 16.0
+2024-11-01 19:01:06,506 - root - INFO - History saved successfully.
+2024-11-01 19:01:06,506 - root - INFO - Performed subtraction: 9.0 - 3.0 = 6.0
+2024-11-01 19:01:15,390 - root - INFO - History saved successfully.
+2024-11-01 19:01:15,391 - root - INFO - Performed multiplication: 20.0 * 3.0 = 60.0
+2024-11-01 19:01:23,884 - root - INFO - History saved successfully.
+2024-11-01 19:01:23,884 - root - INFO - Performed division: 12.0 / 6.0 = 2.0
+2024-11-01 19:01:30,493 - root - INFO - Displaying calculation history.
+2024-11-01 19:01:40,439 - root - INFO - History cleared.
+2024-11-01 19:01:44,255 - root - WARNING - No calculation history available.
+2024-11-01 19:01:51,412 - root - INFO - History loaded successfully.
+2024-11-01 19:01:57,234 - root - INFO - Displaying calculation history.
+2024-11-01 19:02:18,554 - root - INFO - Application exited.

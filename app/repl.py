@@ -10,7 +10,7 @@ class REPL:
     def start(self):
         print("Calculator REPL. Type 'quit' to exit.")
         while True:
-            command = input("Enter command (add, subtract, multiply, divide, history, clear, load, save, delete, greet, menu, quit): ").strip().lower()
+            command = input("Enter command: ").strip().lower()
             if command in ["add", "subtract", "multiply", "divide"]:
                 x = float(input("Enter first number: "))
                 y = float(input("Enter second number: "))
@@ -29,8 +29,6 @@ class REPL:
                 self.calculator.clear_history()
             elif command == "load":
                 self.calculator.load_history()
-            elif command == "save":
-                self.calculator.save_current_history()
             elif command == "delete":
                 self.calculator.delete_history_file()
             elif command == "greet":

@@ -5,4 +5,4 @@ class MenuPlugin(Plugin):
         return "menu"
 
     def execute(self):
-        return "Available commands: greet, add, subtract, multiply, divide, history."
+        return "Available commands: greet, add, subtract, multiply, divide, greet, menu, history, clear, load, delete, quit"
